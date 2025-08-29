@@ -7,7 +7,7 @@ import org.hibernate.Transaction;
 import com.practice.Entity.Student;
 import com.practice.Utility.HibernateUtility;
 
-//update data
+//update data class
 public class UpdateData {
 	
 	public static void main(String[] args) {
