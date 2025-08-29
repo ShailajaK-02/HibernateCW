@@ -6,7 +6,7 @@ import org.hibernate.Transaction;
 import com.practice.Entity.Student;
 import com.practice.Utility.HibernateUtility;
 
-//getalldata 
+//getalldata class
 
 public class GetAllData {
 	 public static void main(String[] args) {
