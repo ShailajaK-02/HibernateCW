@@ -7,7 +7,7 @@ import org.hibernate.Transaction;
 import com.practice.Entity.Student;
 import com.practice.Utility.HibernateUtility;
 
-//get data by id
+//get data by id class 
 public class GetDataById {
 	
 	public static void main(String[] args) {
