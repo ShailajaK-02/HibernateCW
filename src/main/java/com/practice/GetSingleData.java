@@ -7,7 +7,7 @@ import org.hibernate.Transaction;
 import com.practice.Entity.Student;
 import com.practice.Utility.HibernateUtility;
 
-//singleton class 
+//singleton class added
 public class GetSingleData {
 	
 	public static void main(String[] args) {
